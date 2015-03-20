@@ -1,7 +1,10 @@
 # GQCollectionViewLayout
 
 
-_using the UICollctionViewLayout ,do amazing stuff_
 
 
-forth effects
+### preview  March 20,2015
+
+click the screen to switch
+
+![preview](animation.gif)
